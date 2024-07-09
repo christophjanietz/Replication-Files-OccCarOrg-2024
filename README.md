@@ -1,8 +1,8 @@
 # Replication Files
 
-Code for Janietz, C. (2024). "Occupations and Careers within Organizations: Do Organizations Facilitate Unequal Wage Growth?"
+Code for Janietz, C. (2024). "Occupations and Careers within Organizations: Do Organizations Facilitate Unequal Wage Growth?" 
 
-In this repository you can find the code that was used to perform the analyses in the article Janietz, Christoph. (2024). Occupations and Careers within Organizations: Do Organizations Facilitate Unequal Wage Growth? Social Science Research. 
+In this repository you can find the code that was used to perform the analyses in the article Janietz, Christoph. (2024). Occupations and Careers within Organizations: Do Organizations Facilitate Unequal Wage Growth? Social Science Research. https://doi.org/10.1016/j.ssresearch.2024.103005
 
 If you have any questions, please send an e-mail to c.janietz@rug.nl.
 
